@@ -1,8 +1,8 @@
 import os 
 import glob 
 
-Img_list = sorted(glob.glob('/home/tensorflow_dir/Datasets/ISIC_2018_Training_Input/image/*.png')) 
-Mask_list = sorted(glob.glob('/home/tensorflow_dir/Datasets/ISIC_2018_Training_Input/mask/*.png')) 
+Img_list = sorted(glob.glob('/path/to/melanoma/images/*.png')) 
+Mask_list = sorted(glob.glob('/path/to/melanoma/masks/*.png')) 
 #print(len(Img_list)) 
 #print(len(Mask_list))
 
