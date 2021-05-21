@@ -16,4 +16,4 @@ LR = 1e-4
 Batch_Size = 64
 EPOCHS = 30
 
-Check_Points = "/home/nikhil/tensorflow_dir/melanoma_unet/check_points/" 
+Check_Points = "/home/nikhil/tensorflow_dir/melanoma_unet/check_points/"  
