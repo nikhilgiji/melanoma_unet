@@ -1,4 +1,4 @@
-# melanoma_unet
+# Melanoma Segmentation using UNET Architecture
 
 
 Melanoma segmentation using UNET convolutional neural network architecture 
