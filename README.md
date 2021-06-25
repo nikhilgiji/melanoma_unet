@@ -7,7 +7,7 @@ Malignant melanoma segmentation using bi-directional convolutional lstm unet arc
 
 >The baseline architecture used is UNET architecture, which was proposed by Olaf Ronneberger et al., from University of Frieburg in 2015 ISBI challenge for segmentation of neuronal structures in electron microscopic stacks. 
 
-<p align="center"><img height="350" width="700" src="results/UNET.png"></p>
+<p align="center"><img height="350" width="500" src="results/UNET.png"></p>
 
 
 ## Dataset
