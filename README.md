@@ -1,4 +1,4 @@
-# Melanoma Segmentation using UNET Architecture
+# Melanoma Segmentation using Bi-Directional Conv LSTM UNET 
 
 
 Melanoma segmentation using UNET convolutional neural network architecture 
