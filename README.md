@@ -17,8 +17,7 @@ Malignant melanoma segmentation using bi-directional convolutional lstm unet arc
 
 >The training accuracy and loss plots are shown below. 
 
-<p align="center"><img height="400" width="420" src="results/lstm accuracy.png"></p> 
-<p align="center"><img height="400" width="420" src="results/lstm loss.png"></p> 
+<p align="center"><img height="400" width="420" src="results/training_accuracy_loss.png"></p> 
 
 ## Dataset
 
