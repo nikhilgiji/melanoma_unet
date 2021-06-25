@@ -25,12 +25,4 @@ Malignant melanoma segmentation using bi-directional convolutional lstm unet arc
 ```
 https://isic-challenge-data.s3.amazonaws.com/2018/ISIC2018_Task1-2_Training_Input.zip 
 
-``` 
-## Training Model 
-
 ```
-train_model.py 
-
-test_model.py
-
-``` 
