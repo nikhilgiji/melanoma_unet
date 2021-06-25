@@ -29,6 +29,8 @@ https://isic-challenge-data.s3.amazonaws.com/2018/ISIC2018_Task1-2_Training_Inpu
 ## Training Model 
 
 ```
-train_model.py  >Trains the model
+train_model.py 
+
+test_model.py
 
 ``` 
