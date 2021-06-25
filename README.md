@@ -13,7 +13,12 @@ Malignant melanoma segmentation using bi-directional convolutional lstm unet arc
 
 >The predictions of the model are shown below, the first row containts the ground truth images and the second row contains predicted masks.
 
-<p align="center"><img height="400" width="800" src="results/predictions.png"></p>
+<p align="center"><img height="400" width="800" src="results/predictions.png"></p> 
+
+>The training accuracy and loss plots are shown below. 
+
+<p align="center"><img height="400" width="420" src="results/lstm accuracy.png"></p> 
+<p align="center"><img height="400" width="420" src="results/lstm loss.png"></p> 
 
 ## Dataset
 
